@@ -60,7 +60,6 @@ A simple **Student Management System** developed using Java to demonstrate funda
 
 🔗 **LinkedIn:**  
 [Kathirvel G](https://www.linkedin.com/in/kathirvel-gk/)
-
 ---
 
 ⭐ If you find this project useful, feel free to explore and learn from the code!
